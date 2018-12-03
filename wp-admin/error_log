@@ -1,0 +1,15 @@
+[03-Dec-2018 02:22:59 UTC] Cơ sở dữ liệu của WordPress gặp lỗi Incorrect index name '' với truy vấn ALTER TABLE wps_yith_wcwl_lists ADD KEY `` (`wishlist_slug`) yêu cầu bởi require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, YITH_WCWL_Install->update, YITH_WCWL_Install->_add_tables, YITH_WCWL_Install->_add_wishlists_table, dbDelta
+[03-Dec-2018 02:48:47 UTC] Database dump method: mysqldump
+[03-Dec-2018 02:48:47 UTC] Class ZipArchive Not Present
+[03-Dec-2018 02:48:47 UTC] number_of_existing_backups
+[03-Dec-2018 02:48:48 UTC] 1
+[03-Dec-2018 02:48:48 UTC] number_of_backups_from_user
+[03-Dec-2018 02:48:48 UTC] 
+[03-Dec-2018 02:48:48 UTC] mail send
+[03-Dec-2018 03:08:00 UTC] Database dump method: mysqldump
+[03-Dec-2018 03:08:00 UTC] Class ZipArchive Not Present
+[03-Dec-2018 03:08:00 UTC] number_of_existing_backups
+[03-Dec-2018 03:08:00 UTC] 0
+[03-Dec-2018 03:08:00 UTC] number_of_backups_from_user
+[03-Dec-2018 03:08:00 UTC] 
+[03-Dec-2018 03:08:02 UTC] mail send
